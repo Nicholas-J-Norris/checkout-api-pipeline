@@ -2,7 +2,7 @@ name: checkout-api CI
 
 on:
   push:
-    branches: [master]
+    branches: [main]
 
 permissions:
   contents: read
